@@ -24,7 +24,9 @@ To install AISLE-GUIDER, follow these steps:
 3. Install the dependencies:
    ```
    npm install
-   or
+   ```
+   OR
+   ```
    yarn install
    ```
 
