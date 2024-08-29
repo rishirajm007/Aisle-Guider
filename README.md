@@ -24,6 +24,8 @@ To install AISLE-GUIDER, follow these steps:
 3. Install the dependencies:
    ```
    npm install
+   or
+   yarn install
    ```
 
 ## Using AISLE-GUIDER
@@ -50,7 +52,7 @@ Alternatively, see the GitHub documentation on [creating a pull request](https:/
 
 ## Contact
 
-If you want to contact me, you can reach me at `<your_email@example.com>`.
+If you want to contact me, you can reach me at `rishiraj.maheshwari007@gmail.com`.
 
 ## License
 
