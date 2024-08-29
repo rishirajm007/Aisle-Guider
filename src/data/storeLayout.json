@@ -1,0 +1,241 @@
+{
+  "store_id": "",
+  "dimensions": {
+    "width": 1000,
+    "height": 80
+  },
+  "sections": [
+    {
+      "name": "Dairy",
+      "color": "#B5E8D1",
+      "coordinates": { "x": 10, "y": 10, "width": 150, "height": 180 }
+    },
+    {
+      "name": "Grocery",
+      "color": "#B5E8D1",
+      "coordinates": { "x": 10, "y": 200, "width": 150, "height": 180 }
+    },
+    {
+      "name": "Bakery/Deli",
+      "color": "#B5E8D1",
+      "coordinates": { "x": 10, "y": 390, "width": 150, "height": 120 }
+    },
+    {
+      "name": "Restaurant",
+      "color": "#F0F0B6",
+      "coordinates": { "x": 10, "y": 605, "width": 100, "height": 70 }
+    },
+    {
+      "name": "Tenant",
+      "color": "#F0F0B6",
+      "coordinates": { "x": 600, "y": 605, "width": 160, "height": 70 }
+    },
+    {
+      "name": "Courtesy Desk",
+      "color": "#F0F0B6",
+      "coordinates": { "x": 290, "y": 605, "width": 100, "height": 70 }
+    },
+    {
+      "name": "Vision Center",
+      "color": "#F0F0B6",
+      "coordinates": { "x": 400, "y": 605, "width": 100, "height": 70 }
+    },
+    {
+      "name": "Hair Salon",
+      "color": "#F0F0B6",
+      "coordinates": { "x": 510, "y": 605, "width": 80, "height": 70 }
+    },
+    {
+      "name": "Restrooms",
+      "color": "#878787",
+      "coordinates": { "x": 790, "y": 10, "width": 200, "height": 70 }
+    },
+    {
+      "name": "Photo Center",
+      "color": "#C1D3FE",
+      "coordinates": { "x": 890, "y": 90, "width": 100, "height": 70 }
+    },
+    {
+      "name": "Paper & Cleaning",
+      "color": "#C1D3FE",
+      "coordinates": { "x": 170, "y": 10, "width": 120, "height": 80 }
+    },
+    {
+      "name": "Pets",
+      "color": "#C1D3FE",
+      "coordinates": { "x": 300, "y": 10, "width": 100, "height": 80 }
+    },
+    {
+      "name": "Books",
+      "color": "#C1D3FE",
+      "coordinates": { "x": 410, "y": 10, "width": 100, "height": 80 }
+    },
+    {
+      "name": "Electronics",
+      "color": "#C1D3FE",
+      "coordinates": { "x": 520, "y": 10, "width": 120, "height": 80 }
+    },
+    {
+      "name": "Crafts",
+      "color": "#C1D3FE",
+      "coordinates": { "x": 650, "y": 10, "width": 100, "height": 80 }
+    },
+    {
+      "name": "Do-it-Yourself",
+      "color": "#C1D3FE",
+      "coordinates": { "x": 780, "y": 600, "width": 200, "height": 70 }
+    },
+    {
+      "name": "Tire & Lube Express",
+      "color": "#C1D3FE",
+      "coordinates": { "x": 760, "y": 90, "width": 230, "height": 100 }
+    },
+    {
+      "name": "Baby",
+      "color": "#C1D3FE",
+      "coordinates": { "x": 170, "y": 100, "width": 120, "height": 100 }
+    },
+    {
+      "name": "Apparel",
+      "color": "#C1D3FE",
+      "coordinates": { "x": 170, "y": 210, "width": 240, "height": 180 }
+    },
+    {
+      "name": "Shoes",
+      "color": "#C1D3FE",
+      "coordinates": { "x": 170, "y": 400, "width": 120, "height": 80 }
+    },
+    {
+      "name": "Jewelry",
+      "color": "#C1D3FE",
+      "coordinates": { "x": 300, "y": 400, "width": 110, "height": 80 }
+    },
+    {
+      "name": "Office",
+      "color": "#C1D3FE",
+      "coordinates": { "x": 420, "y": 100, "width": 100, "height": 140 }
+    },
+    {
+      "name": "Cards",
+      "color": "#C1D3FE",
+      "coordinates": { "x": 420, "y": 250, "width": 100, "height": 70 }
+    },
+    {
+      "name": "Seasonal",
+      "color": "#C1D3FE",
+      "coordinates": { "x": 530, "y": 100, "width": 220, "height": 150 }
+    },
+    {
+      "name": "Home",
+      "color": "#C1D3FE",
+      "coordinates": { "x": 530, "y": 260, "width": 220, "height": 220 }
+    },
+    {
+      "name": "Auto Care",
+      "color": "#C1D3FE",
+      "coordinates": { "x": 760, "y": 200, "width": 110, "height": 100 }
+    },
+    {
+      "name": "Sporting Goods",
+      "color": "#C1D3FE",
+      "coordinates": { "x": 760, "y": 310, "width": 110, "height": 110 }
+    },
+    {
+      "name": "Toys",
+      "color": "#C1D3FE",
+      "coordinates": { "x": 880, "y": 200, "width": 110, "height": 220 }
+    },
+    {
+      "name": "Pharmacy",
+      "color": "#C1D3FE",
+      "coordinates": { "x": 420, "y": 490, "width": 160, "height": 100 }
+    },
+    {
+      "name": "Health",
+      "color": "#C1D3FE",
+      "coordinates": { "x": 590, "y": 490, "width": 160, "height": 100 }
+    },
+    {
+      "name": "Cosmetics",
+      "color": "#C1D3FE",
+      "coordinates": { "x": 760, "y": 430, "width": 100, "height": 160 }
+    },
+    {
+      "name": "Lawn & Garden",
+      "color": "#C1D3FE",
+      "coordinates": { "x": 870, "y": 430, "width": 120, "height": 160 }
+    },
+    {
+      "name": "Check Out",
+      "color": "#878787",
+      "coordinates": { "x": 170, "y": 490, "width": 240, "height": 100 }
+    },
+    {
+      "name": "Entry",
+      "color": "#878787",
+      "coordinates": { "x": 10, "y": 690, "width": 200, "height": 70 }
+    },
+    {
+      "name": "Exit",
+      "color": "#878787",
+      "coordinates": { "x": 220, "y": 690, "width": 200, "height": 70 }
+    }
+  ],
+  "paths": [
+    {
+      "from": "Entry",
+      "to": "Bakery/Deli",
+      "weight": 10
+    },
+    {
+      "from": "Bakery/Deli",
+      "to": "Grocery",
+      "weight": 5
+    },
+    {
+      "from": "Grocery",
+      "to": "Baby",
+      "weight": 10
+    },
+    {
+      "from": "Baby",
+      "to": "Pets",
+      "weight": 8
+    },
+    {
+      "from": "Pets",
+      "to": "Books",
+      "weight": 12
+    },
+    {
+      "from": "Books",
+      "to": "Office",
+      "weight": 7
+    },
+    {
+      "from": "Office",
+      "to": "Home",
+      "weight": 10
+    },
+    {
+      "from": "Home",
+      "to": "Health",
+      "weight": 15
+    },
+    {
+      "from": "Health",
+      "to": "Pharmacy",
+      "weight": 10
+    },
+    {
+      "from": "Pharmacy",
+      "to": "Check Out",
+      "weight": 8
+    },
+    {
+      "from": "Check Out",
+      "to": "Exit",
+      "weight": 12
+    }
+  ]
+}
